@@ -1,1 +1,1 @@
-`JavaScript` `PHP` `docker` `node-red` `MongoDB`
+`JavaScript` `PHP` `docker` `node-red` `MongoDB` `Wordpress` `Home Assistant` `React` `MQTT` 
